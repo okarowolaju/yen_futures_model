@@ -7,3 +7,5 @@ The results of this analysis should be suffice in answering the following questi
 - Does this model prform better or worse on out=of=sample data compared to in-sample data?
 
 ## Summary 
+
+- The settle price of the Yen seem to both be ina long term and short term trend up, with the short term being a steady climb up with less volatility thant the long term
